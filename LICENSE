@@ -1,5 +1,14 @@
 MIT License
 
+### Explanation:
+- **Title**: The project name is mentioned at the top.
+- **Features**: Lists what the project does and its key components.
+- **Requirements**: Specifies dependencies and setup instructions.
+- **Usage**: Provides clear steps to clone the repo, run the code in Jupyter, and see outputs.
+- **Example Output**: Gives an idea of what the user can expect when running the code.
+- **Notes**: Mentions how to handle GPU/CPU and memory management.
+- **License**: Standard MIT license reference (if you are using this license).
+
 Copyright (c) 2025 Uddeepth Dasari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
